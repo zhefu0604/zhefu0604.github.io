@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 **Eno Fellow**: Selected as one of 17 graduate students nationwide for the prestigious Eno Fellow program at the Eno Center for Transportation!

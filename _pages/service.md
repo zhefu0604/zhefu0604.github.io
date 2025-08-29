@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching&mentoring/
-title: Teaching & Mentoring
+permalink: /service/
+title: Service
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 Under Development

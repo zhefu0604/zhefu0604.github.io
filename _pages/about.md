@@ -1,25 +1,49 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate at UC Berkeley
 
 profile:
   align: right
   image: headshot.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>s
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>she/her/hers</p>
+    <p>Berkeley, CA 94720</p>
+    <p>zhefu[at]berkeley[dot]edu</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # we'll manually place the news section above the map
+latest_posts: false
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://citris-uc.org/people/person/alexandre-bayen/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am fortunated to conduct research in Berkeley Artificial Intelligence Research [(BAIR)](https://bair.berkeley.edu/), the Institute of Transportation Studies [(ITS)](https://its.berkeley.edu/), Center for Information Technology and Research in the Interest of Society [(CITRIS)](https://citris-uc.org/), Berkeley Deep Drive [(BDD)](https://deepdrive.berkeley.edu/), and California Partners for Advanced Transportation Technology [(California PATH)](https://path.berkeley.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my M.S. degree from UC Berkeley and B.S. degree from [Tongji University](https://en.tongji.edu.cn/), both in Transportation Engineering. For more information, please refer to my CV <a href="../assets/pdf/Zhe_Fu_CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
+
+---
+
+#### Research Interests
+I develop learning and control algorithms, as well as modeling tools for **distributed parameter systems**, with a focus on **mixed autonomy**.
+
+The techniques I develop combine **physics-informed neural modeling of hyperbolic PDEs**, model-based and data-driven control algorithm design, and field operational testing. I apply these methods to autonomy systems, such as automated vehicles, drones, and urban air mobility.
+
+I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/).
+
+Please feel free to reach out for research discussion and collaboration :)
+
+---
+
+## News
+
+{% include news.liquid limit=true %}
+
+---
+
+## Visitor Map
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cTazdgj5Nov5E5FtUJx_We4bvG59sECgnKi-15kq8GM&cl=ffffff&w=400&h=250"></script>

@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching&mentoring/
-title: Teaching & Mentoring
+permalink: /media/
+title: Media
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
 Under Development
