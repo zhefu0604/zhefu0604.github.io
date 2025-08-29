@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2025-05
+title: Athena Award Winner
+date: 2025-05-01
 inline: true
 related_posts: false
 ---
