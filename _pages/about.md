@@ -39,7 +39,7 @@ Please feel free to reach out for research discussion and collaboration :)
 
 ---
 
-## News
+## Recent News
 
 {% include news.liquid limit=true %}
 
