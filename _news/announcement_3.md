@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Berkeley Grad Slam Runner-up
-date: 2025-04-01
+date: 2025-06-08
 inline: true
 related_posts: false
 ---
 
-🥈 **Berkeley Grad Slam Runner-up**: Excited to be the campus-wide runner-up winner at the 2025 Berkeley Grad Slam competition with my research on traffic flow optimization!
+🎉 **Eno Fellow**: I was selected as one of 17 graduate students nationwide for the prestigious [Eno LDC](https://enotrans.org/course/2025ldc/) at the Eno Center for Transportation!

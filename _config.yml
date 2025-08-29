@@ -67,49 +67,61 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-acm_id: # your dl.acm.org/profile/id
-blogger_url: # your blogger URL
-bluesky_url: # your bluesky URL
-dblp_url: # your DBLP profile url
-discord_id: # your discord id (18-digit unique numerical identifier)
-facebook_id: # your facebook id
-flickr_id: # your flickr id
-github_username: zhefu0604
-gitlab_username: # your GitLab user name
-ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: # your instagram id
-kaggle_id: # your kaggle id
-keybase_username: # your keybase user name
-lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: zhefu
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
-orcid_id: 0000-0003-1234-5678
-osf_id: # your OSF ID
-pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
-quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
-spotify_id: # your spotify id
-stackoverflow_id: # your stackoverflow id
-telegram_username: # your Telegram user name
-unsplash_id: # your unsplash id
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # your zotero username
+# -----------------------------------------------------------------------------
+# Social Media
+# -----------------------------------------------------------------------------
+
+# Email
+email: zhefu@berkeley.edu
+
+# Social Media - Only keeping the ones you want
+linkedin_username: zhe-fu-fuzhe
+x_username: ZheFu1 # your X/Twitter handle (add your actual handle here)
+orcid_id: 0000-0003-4478-3978 # your actual ORCID ID (add your real ORCID here, format: 0000-0000-0000-0000)
+scholar_userid: Qeq5-TsAAAAJ # your Google Scholar ID (just the ID, not the full URL)
+
+# Clear out all other social media (they won't show if empty)
+github_username: # removed
+gitlab_username: # removed
+ieee_id: # removed
+inspirehep_id: # removed
+instagram_id: # removed
+kaggle_id: # removed
+keybase_username: # removed
+lastfm_id: # removed
+lattes_id: # removed
+mastodon_username: # removed
+medium_username: # removed
+osf_id: # removed
+pinterest_id: # removed
+publons_id: # removed
+quora_username: # removed
+research_gate_profile: # removed
+scopus_id: # removed
+semanticscholar_id: # removed
+spotify_id: # removed
+stackoverflow_id: # removed
+telegram_username: # removed
+unsplash_id: # removed
+wechat_qr: # removed
+whatsapp_number: # removed
+wikidata_id: # removed
+wikipedia_id: # removed
+work_url: # removed
+youtube_id: # removed
+zotero_username: # removed
+facebook_id: # removed
+flickr_id: # removed
+blogger_url: # removed
+acm_id: # removed
+dblp_url: # removed
+strava_userid: # removed
+bluesky_url: # removed
+discord_id: # removed
+rss_icon: # removed
 
 contact_note: >
-  Feel free to reach out via email or LinkedIn for research discussions and collaborations!
+  Feel free to reach out via email for research discussions and collaborations!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -199,7 +211,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -240,7 +252,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  # - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/

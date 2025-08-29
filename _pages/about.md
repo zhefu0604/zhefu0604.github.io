@@ -9,8 +9,6 @@ profile:
   image: headshot.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>she/her/hers</p>
-    <p>Berkeley, CA 94720</p>
     <p>zhefu[at]berkeley[dot]edu</p>
 
 news: false # we'll manually place the news section above the map
@@ -19,11 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://citris-uc.org/people/person/alexandre-bayen/).
+Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://citris-uc.org/people/person/alexandre-bayen/). I also work with Professor [Claire Tomlin](https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html), and visited Autonomous Systems Lab [(ASL)](https://stanfordasl.github.io/) at Stanford led by Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone).
 
-I am fortunated to conduct research in Berkeley Artificial Intelligence Research [(BAIR)](https://bair.berkeley.edu/), the Institute of Transportation Studies [(ITS)](https://its.berkeley.edu/), Center for Information Technology and Research in the Interest of Society [(CITRIS)](https://citris-uc.org/), Berkeley Deep Drive [(BDD)](https://deepdrive.berkeley.edu/), and California Partners for Advanced Transportation Technology [(California PATH)](https://path.berkeley.edu/).
 
-I earned my M.S. degree from UC Berkeley and B.S. degree from [Tongji University](https://en.tongji.edu.cn/), both in Transportation Engineering. For more information, please refer to my CV <a href="../assets/pdf/Zhe_Fu_CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
+I am fortunate to conduct research in Berkeley Artificial Intelligence Research [(BAIR)](https://bair.berkeley.edu/), the Institute of Transportation Studies [(ITS)](https://its.berkeley.edu/), Center for Information Technology and Research in the Interest of Society [(CITRIS)](https://citris-uc.org/), Berkeley Deep Drive [(BDD)](https://deepdrive.berkeley.edu/), and California Partners for Advanced Transportation Technology [(California PATH)](https://path.berkeley.edu/).
+
+I completed an M.S. in Transportation Engineering at UC Berkeley and a B.S. in Transportation Engineering at Tongji University, along with a Law minor at Fudan University, and research internships at [Honda Research Institute](https://usa.honda-ri.com/) and the Tsinghua–Berkeley Shenzhen Institute.
+
+For more information, please refer to my **CV** <a href="../assets/pdf/Zhe_Fu_CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
 ---
 
@@ -44,6 +45,6 @@ Please feel free to reach out for research discussion and collaboration :)
 
 ---
 
-## Visitor Map
+<!-- ## Visitor Map
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cTazdgj5Nov5E5FtUJx_We4bvG59sECgnKi-15kq8GM&cl=ffffff&w=400&h=250"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cTazdgj5Nov5E5FtUJx_We4bvG59sECgnKi-15kq8GM&cl=ffffff&w=400&h=250"></script> -->

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Athena Award Winner
-date: 2025-05-01
+date: 2025-07-01
 inline: true
 related_posts: false
 ---
 
-🏆 **Athena Award Winner**: Honored to receive the Athena Award for Graduate Student Leadership from EDGE in Tech as the sole winner!
+ 🎤 **ACC Presentations**: I gave an oral presentation and an invited poster presentation at ACC 2025.
