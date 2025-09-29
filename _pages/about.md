@@ -14,7 +14,7 @@ profile:
 news: false # we'll manually place the news section above the map
 latest_posts: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://citris-uc.org/people/person/alexandre-bayen/). I also work with Professor [Claire Tomlin](https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html), and visited Autonomous Systems Lab [(ASL)](https://stanfordasl.github.io/) at Stanford led by Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone).
@@ -33,13 +33,20 @@ I am on the 2025-2026 job market!
 ---
 
 #### Research Interests
-I develop learning and control algorithms, as well as modeling tools for **distributed parameter systems**, with a focus on **mixed autonomy**.
+I develop learning and control algorithms, as well as modeling tools for **distributed parameter systems**, with a focus on **mixed autonomy**, where automated and human agents co-exist in the system.
 
 The techniques I develop combine **physics-informed neural modeling of hyperbolic PDEs**, model-based and data-driven control algorithm design, and field operational testing. I apply these methods to autonomy systems, such as automated vehicles, drones, and urban air mobility.
 
-I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/).
+I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/). I also shared this work with a broader audience in the **UC Grad Slam**, where graduate students present their research in just 3 minutes.  
+My talk on how a few smart cars can smooth stop-and-go traffic waves earned me the **Runner-up award at UC Berkeley**.  ▶️ [Watch the talk here](https://www.youtube.com/watch?v=JJdPY_pF130)  
 
-Please feel free to reach out for research discussion and collaboration :)
+
+---
+
+## Upcoming Talks
+
+{% include talks.liquid limit=true %}
+
 
 ---
 

@@ -202,6 +202,11 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
+  talks:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -215,6 +220,11 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+talks:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 talk items
+  limit: 5  # leave blank to include all the talks in the `_talks` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

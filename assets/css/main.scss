@@ -24,32 +24,41 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-// Custom styles for social media icons in profile section
+// Custom styles for profile social icons
 .profile .social {
   .contact-icons {
     font-size: 2rem !important;
-    margin-top: 8px;
+    margin-top: 4px;
+    text-align: center; // Center the icons
+    padding-left: 0; // Remove any left padding
+    margin-left: 0; // Remove any left margin
     
     a {
-      margin-right: 8px;
+      margin-right: 0px;
+      color: #666;
+      transition: color 0.3s ease;
       
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
-
       &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
+        color: #007bff;
       }
     }
   }
 }
 
 // Custom headshot size
-.profile img {
-  width: 240px !important;  /* Adjust this number */
-  height: auto !important;
-  max-width: 100% !important;
+.profile {
+  text-align: center;
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 240px !important;  /* Keep your existing size */
+    height: auto !important;
+    max-width: 100% !important;
+  }
+}
+
+// Center the more_info content
+.profile .more_info {
+  text-align: center;
 }

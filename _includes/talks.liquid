@@ -1,18 +1,12 @@
 <div class="news">
-  {% if site.news != blank %}
-    {% assign news_size = site.news | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and site.news.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
-      {% endif %}
-    >
+  {% assign talks = site.talks %}
+  {% if talks != blank and talks.size > 0 %}
+    <div class="table-responsive">
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
-        {% for item in news %}
+        {% for item in talks %}
           <tr>
-            <th scope="row" style="width: 120px; vertical-align: top; padding-top: 8px;">{{ item.date | date: "%b %Y" }}</th>
-            <td style="padding-top: 8px;">
+            <th scope="row">{{ item.date | date: "%b %d, %Y" }}</th>
+            <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | strip }}
               {% else %}
@@ -27,6 +21,6 @@
       </table>
     </div>
   {% else %}
-    <p>No recent news...</p>
+    <p>No upcoming talks scheduled...</p>
   {% endif %}
 </div>
