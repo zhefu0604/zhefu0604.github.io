@@ -24,35 +24,36 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-// Custom styles for profile social icons
-.profile .social {
-  .contact-icons {
-    font-size: 2rem !important;
-    margin-top: 4px;
-    text-align: center; // Center the icons
-    padding-left: 0; // Remove any left padding
-    margin-left: 0; // Remove any left margin
+// Custom styles for profile social icons - more specific targeting
+.profile .social .contact-icons {
+  font-size: 2rem !important;
+  margin-top: 8px !important;
+  text-align: center !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  padding: 0 !important;
+  margin: 8px 0 0 0 !important;
+  
+  a {
+    margin-right: 8px !important;
+    color: #6c757d !important;
+    text-decoration: none !important;
     
-    a {
-      margin-right: 0px;
-      color: #666;
-      transition: color 0.3s ease;
-      
-      &:hover {
-        color: #007bff;
-      }
+    &:hover {
+      color: #007bff !important;
+      text-decoration: none !important;
     }
   }
 }
 
-// Custom headshot size
+// Center the profile image and content
 .profile {
-  text-align: center;
-
+  text-align: center !important;
+  
   img {
-    display: block;
-    margin: 0 auto;
-    width: 240px !important;  /* Keep your existing size */
+    display: block !important;
+    margin: 0 auto !important;
+    width: 200px !important;
     height: auto !important;
     max-width: 100% !important;
   }
@@ -60,5 +61,12 @@ $max-content-width: {{ site.max_width }};
 
 // Center the more_info content
 .profile .more_info {
-  text-align: center;
+  text-align: center !important;
+}
+
+// Override any existing social media styling
+.profile .social {
+  text-align: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
