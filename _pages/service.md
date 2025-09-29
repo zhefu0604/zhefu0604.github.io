@@ -40,7 +40,7 @@ nav_order: 4
 - **Volunteer**, Girl Scouts Engineering Day - May 2023
 
 #### Professional & Campuswide Service
-- **Junior Researcher Engagement Officer**, REproducible Research In Transportation Engineering (RERITE) 
+- **Junior Researcher Engagement Officer**, REproducible Research In Transportation Engineering (RERITE) - July 2025 - Present 
 - **Student Lead Coordinator**, BAIR-NCKU Summer AI Workshop - July 2025
 - **Initiator**, IEEE Technical Committee: Automated Mobility in Mixed Traffic - Mar. 2025 - Present
 - **PhD Coordinator**, ITS Berkeley Seminar Series - Sep. 2024 - May 2025

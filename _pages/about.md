@@ -26,6 +26,10 @@ I completed an M.S. in Transportation Engineering at UC Berkeley and a B.S. in T
 
 For more information, please refer to my **CV** <a href="../assets/pdf/Zhe_Fu_CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
+<div style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-left: 4px solid #007bff; border-radius: 5px;">
+I am on the 2025-2026 job market!
+</div>
+
 ---
 
 #### Research Interests

@@ -14,7 +14,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://zhefu0604.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -36,7 +36,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -49,7 +49,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -119,7 +119,7 @@ bluesky_url: # removed
 discord_id: # removed
 
 contact_note: >
-  Feel free to reach out via email for research discussions and collaborations!
+  "Feel free to reach out via email for research discussions and collaborations!"
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

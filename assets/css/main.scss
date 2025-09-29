@@ -23,3 +23,33 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom styles for social media icons in profile section
+.profile .social {
+  .contact-icons {
+    font-size: 2rem !important;
+    margin-top: 8px;
+    
+    a {
+      margin-right: 8px;
+      
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
+
+// Custom headshot size
+.profile img {
+  width: 240px !important;  /* Adjust this number */
+  height: auto !important;
+  max-width: 100% !important;
+}
