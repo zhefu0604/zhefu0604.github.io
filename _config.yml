@@ -8,11 +8,11 @@ middle_name:
 last_name: Fu
 description:
 footer_text: 
-keywords: Zhe Fu, 傅哲, Berkeley, research, computer science, machine learning, AI, academic, fu-zhe.com
+keywords: Zhe Fu, 傅哲, Berkeley, research, machine learning, AI, academic, fu-zhe.com
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✅ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://zhefu0604.github.io # the base hostname & protocol for your site
+url: https://fu-zhe.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -283,7 +283,7 @@ plugins: []
   # - jekyll-paginate-v2
   # - jekyll-regex-replace
   # - jekyll-scholar
-  # - jekyll-sitemap
+  - jekyll-sitemap
   # - jekyll-tabs
   # - jekyll-toc
   # - jekyll-twitter-plugin
