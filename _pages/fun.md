@@ -2,7 +2,7 @@
 layout: page
 permalink: /fun/
 title: Fun
-description: Materials for courses you taught. Replace this text with your description.
+description: Let's have fun!
 nav: true
 nav_order: 6
 ---
