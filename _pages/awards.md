@@ -8,26 +8,27 @@ nav_order: 5
 ---
 ### Selected Awards & Fundings & Honors
 #### Awards
-- Eno Fellow, Eno Center for Transportation (Among 17 selected graduate students nationwide) - June 2025
-- Athena Award for Graduate Student Leadership, EDGE in Tech (sole winner) - May 2025
-- Runner-up Winner, 2025 Berkeley Grad Slam (Campus-wide sole winner) - April 2025
-- NSF CPS Rising Star, 2025 CPS Rising Stars Workshop (30 out of 174) - Mar. 2025
-- Rising Star in Mechanical Engineering, ME department at CMU (Among 30 selected attendees) - Oct. 2024
-- IEEE ITSC 2024 Institutional Lead Award - CIRCLES Consortium - Sept. 2024
+- [Rising Star in EECS](https://risingstars-eecs.mit.edu/), EECS department at MIT (70 out of 327, Top 21%) - Oct. 2025
+- [Eno Fellow](https://its.berkeley.edu/news/fu-lim-montilla-selected-eno-fellows-0), Eno Center for Transportation (Among 17 selected graduate students nationwide) - June 2025
+- [Athena Award for Graduate Student Leadership](https://citris-uc.org/2025-edge-in-tech-athena-award-winners-promote-inclusion-in-tech-fields/), EDGE in Tech (sole winner) - May 2025
+- [Runner-up Winner](https://ce.berkeley.edu/student-update/3179), 2025 Berkeley Grad Slam (Campus-wide sole winner) - April 2025
+- [NSF CPS Rising Star](https://cps-vo.org/group/CPSRisingStarsWorkshop25), 2025 CPS Rising Stars Workshop (30 out of 174) - Mar. 2025
+- [Rising Star in Mechanical Engineering](https://its.berkeley.edu/news/cmu-selects-zhe-fu-2024-rising-star-mechanical-engineering), ME department at CMU (Among 30 selected attendees) - Oct. 2024
+- [IEEE ITSC 2024 Institutional Lead Award](https://its.berkeley.edu/news/bayen-receives-ieee-awards) - CIRCLES Consortium - Sept. 2024
 - Evergreen Award for Undergraduate Researcher Mentoring, EECS department at UC Berkeley - May 2024
-- Dean's Award for Inclusive Excellence, Oski Student Leadership Award (Campus-wide sole awardee) - April 2024
-- First-place Winner, 2023 INFORMS Poster Competition (4 out of 200) - Oct. 2023
-- Outstanding Graduate Student Instructor, UC Berkeley (Top 10%) - March 2022
+- [Dean's Award for Inclusive Excellence](https://ce.berkeley.edu/student-update/3005), Oski Student Leadership Award (Campus-wide sole awardee) - April 2024
+- [First-place Winner](https://ce.berkeley.edu/student-update/2976), 2023 INFORMS Poster Competition (4 out of 200) - Oct. 2023
+- [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695), UC Berkeley (Top 10%) - March 2022
 
 #### Scholarships
-- Asian American Architects and Engineers Foundation (AAa/e) Graduate Scholarship (First Place), AAa/e - Oct. 2024
-- ITS California and California Transportation Foundation Scholarship, ITSCA & CTF - Aug. 2023
+- [Asian American Architects and Engineers Foundation (AAa/e) Graduate Scholarship (First Place)](https://its.berkeley.edu/news/zhe-fu-awarded-aaae-scholarship), AAa/e - Oct. 2024
+- [ITS California and California Transportation Foundation Scholarship](https://its.berkeley.edu/news/fu-earns-ctf-itsca-scholarship-award), ITSCA & CTF - Aug. 2023
 - NSF Student Travel Grant, CPS-IoT Week U.S. NSF - March 2023
 - Chinese National Scholarship (Top 1%), Chinese Ministry of Education - Sept. 2017
 
 #### Research Fundings
-- Berkeley's Artificial Intelligence Research Lab (BAIR) Graduate Grant ($12k), BAIR - May 2024
-- Hearts to Humanity Eternal (H2H8) Graduate Research Grant ($10k), H2H8 - July 2023
+- Berkeley's Artificial Intelligence Research Lab ([BAIR](https://bair.berkeley.edu/)) Graduate Grant ($12k), BAIR - May 2024
+- Hearts to Humanity Eternal ([H2H8](https://h2h8.com/)) Graduate Research Grant ($10k), H2H8 - July 2023
 - Student Research Grant ($15k), CEE Department UC Berkeley - June 2022
 
 ---
@@ -43,7 +44,7 @@ nav_order: 5
 - Second Prize, China Physics Olympiad (Provincial Level) - Oct. 2013
 
 #### Other Scholarships
-- Professional Development Award, UC Berkeley - Aug. 2024
+- Professional Development Award, UC Berkeley - Aug. 2024 & Sep. 2025
 - Department Award - EECS, UC Berkeley - 2023
 - Block Grant Award - CEE, UC Berkeley - 2019 - 2023
 - Summer Department Award - ITS, UC Berkeley - May 2021

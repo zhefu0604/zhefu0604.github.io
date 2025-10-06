@@ -2,20 +2,21 @@
 layout: page
 permalink: /teaching/
 title: Teaching & Mentoring
-description: My teaching and mentoring experience at UC Berkeley and beyond
+description: I am committed to education across the academic spectrum, having taught and mentored diverse groups of undergraduate and graduate students.
 nav: true
 nav_order: 3
 ---
 
-### Graduate Student Instructor, UC Berkeley
+Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](https://ce.berkeley.edu/news/2695), my teaching experience spans a broad spectrum of learners, from undergrads and grads, exchange students, and elementary/middle school students from <span style="color: #007bff;"> diverse backgrounds</span>.
+#### Graduate Student Instructor, UC Berkeley
 
 ##### CE262 Analysis of Transportation Data (Graduate Level)
 **Period:** Aug. 2021 - Dec. 2021
 
 - **Enrollment:** 57
-  - PhD/Master core course for SYS and TRANS students in CEE department
-  - Students' degree programs include Undergraduate, MEng, MS, MBA and PhD
-  - Students' departments include CEE, CED and Haas School of Business
+  - PhD/Master core course for [SYS](https://ce.berkeley.edu/programs/sys) and [TRANS](https://ce.berkeley.edu/programs/trans) students in CEE department
+  - Students' degree programs include <span style="color: #007bff;">Undergraduate, MEng, MS, MBA and PhD</span>
+  - Students' departments include [CEE](https://ce.berkeley.edu/), [CED](https://ced.berkeley.edu/) and [Haas School of Business](https://haas.berkeley.edu/)
 
 - **Student Ratings:** 4.67/5.00 (dept. avg: 4.41, response rate: 77%)
   - Helpfulness: 4.84/5.00
@@ -24,26 +25,41 @@ nav_order: 3
   - Accessibility: 4.86/5.00
 
 - **Recognition:**
-  - Awarded Outstanding Graduate Student Instructor (Top 10%)
-  - Invited 3 times to serve as one of three panelists at International GSI conference held for around 800 first-time GSIs at UC Berkeley
+  - Awarded [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695) (Top 10%)
+  - Invited <span style="color: #007bff;">3 times</span> to serve as one of three panelists at International GSI conference held for around <span style="color: #007bff;">800 first-time GSIs</span> at UC Berkeley
   - Invited to serve as the panelist for the pedagogy class for new GSIs (CE375)
 
-### Volunteer Teacher
+#### Lecturer, UC Berkeley
+
+##### BAIR-NCKU Summer AI Workshop (Graduate Level)
+**Period:** July 2025
+
+- Enrollment: 6 (Masters Students from NCKU)
+- Served as the main student coordinator for the week-long module on "AI & Transportation"
+- Instructed the cohort on "Learning and controls in Mixed Autonomy Traffic Systems" and "Neural Finite Volume Methods"
+
+##### Girl Scout Engineering Day
+**Period:** May 2023
+
+- Enrollment: 60 (Elementary/Middle School Students from Girl Scout)
+- Led a hands-on programming workshop for over 60 elementary and middle school girls, teaching basic coding principles
+- Mentored and inspired a diverse group of young girls to build confidence and pursue future careers in STEM through an engaging introduction to university-level engineering
+
+#### Volunteer Teacher
 
 ##### Basic Health and Hygiene
 **Period:** Jan. 2016 - Feb. 2016  
 **Institution:** Lianhua Village School
 
-- **Enrollment:** 15 (Elementary School Students in "Hui" minority)
+- Enrollment: 15 (Elementary School Students in "Hui" minority)
 - Volunteered to teach elementary school students at a religious school located in Lianhua village, a less-developed corner of China's mountainous west
 - Shocked by the poor health resources the left-behind children have, I designed the "Basic Health and Hygiene" course on my own, including creating the syllabus, preparing the materials and delivering 10 one-hour lectures
 
 
+### **Mentoring**
+Honored with the <span style="color:rgb(128, 32, 99);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 16 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
 
-
-### Mentoring
-
-#### Undergraduate Students
+##### Undergraduate Students
 
 **CEE Scholars research mentorship program** (for undergrads from PREP and T-PREP programs) - March 2024 - Present
 - Sami Seyedjafar Kashi, CEE, 2024 - 2025
@@ -59,7 +75,7 @@ nav_order: 3
 - Ashwin Dara, EECS, 2023 - 2024. Currently software engineer at Doordash
 - Eric Cheng, EECS, 2021 - 2022. Currently software engineer at Unity
 
-#### Graduate Students
+##### Graduate Students
 
 **EECS MEng capstone project mentor** - Sep. 2023 - May 2024
 - Alvin Bao, EECS, 2023 - 2024. Currently software engineer at Netflix
