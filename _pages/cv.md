@@ -11,4 +11,4 @@ nav_order: 1
   window.location.href = '/assets/pdf/Zhe_Fu_CV.pdf';
 </script>
 
-<p>Redirecting to CV... <a href="/assets/pdf/Zhe Fu_CV.pdf">Click here if not redirected automatically</a></p>
+<p>Redirecting to CV... <a href="/assets/pdf/Zhe_Fu_CV.pdf">Click here if not redirected automatically</a></p>
