@@ -21,6 +21,7 @@ nav_order: 5
 - [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695), UC Berkeley (Top 10%) - March 2022
 
 #### Scholarships
+- [Rodney E. Slater Scholarship](https://enotrans.org/article/eno-concludes-2025-leaders-development-conference/), Eno Center for Transportation - June 2025
 - [Asian American Architects and Engineers Foundation (AAa/e) Graduate Scholarship (First Place)](https://its.berkeley.edu/news/zhe-fu-awarded-aaae-scholarship), AAa/e - Oct. 2024
 - [ITS California and California Transportation Foundation Scholarship](https://its.berkeley.edu/news/fu-earns-ctf-itsca-scholarship-award), ITSCA & CTF - Aug. 2023
 - NSF Student Travel Grant, CPS-IoT Week U.S. NSF - March 2023
