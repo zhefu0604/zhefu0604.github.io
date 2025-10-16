@@ -33,9 +33,9 @@ I am on the 2025-2026 job market!
 ---
 
 #### Research Interests
-I develop learning and control algorithms, as well as modeling tools for **distributed parameter systems**, with a focus on **mixed autonomy**, where automated and human agents co-exist in the system.
+I develop **model-informed learning and control** algorithms, along with modeling tools for **distributed parameter systems**, with a focus on **mixed autonomy**, where automated and human agents co-exist and interact in the system.
 
-The techniques I develop combine **physics-informed neural modeling of hyperbolic PDEs**, model-based and data-driven control algorithm design, and field operational testing. I apply these methods to autonomy systems, such as automated vehicles, drones, and urban air mobility.
+The techniques I develop combine **physics-informed neural modeling of hyperbolic PDEs**, model-based and data-driven control algorithm design, and field validation and deployment. I embed domain knowledge and structure to guide learning, rather than relying on pure black-box approaches. I apply these methods to autonomy systems, such as automated vehicles, drone fleets, and urban air mobility.
 
 I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/). I also shared this work with a broader audience in the **UC Grad Slam**, where graduate students present their research in just 3 minutes.  
 My talk on how a few smart cars can smooth stop-and-go traffic waves earned me the **Runner-up award at UC Berkeley**.  ▶️ [Watch the talk here](https://www.youtube.com/watch?v=JJdPY_pF130)  
