@@ -29,6 +29,10 @@ nav_order: 4
 
 ---
 #### Leadership & Outreach
+- **Junior Researcher Engagement Officer**, REproducible Research In Transportation Engineering ([RERITE](https://www.rerite.org/)) - July 2025 - Present 
+- **Student Lead Coordinator**, BAIR-NCKU Summer AI Workshop - July 2025
+- **Initiator**, IEEE Technical Committee: [Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/) - Mar. 2025 - Present
+- **Organizer**, ITSC 2024 Workshop "Automated Mobility in Emerging Mixed Traffic", IEEE ITSS - 2024
 - **Sole Graduate Representative**, CEE DEIB Committee - Aug. 2023 - July 2024
 - **Founder and President**, Representation of Asian and Pacific Islander in the Department of Civil and Environmental Engineering ([RAPID-CEE](https://sites.google.com/berkeley.edu/rapid-cee/home)) - May 2023 - Aug. 2024
 - **Graduate Assembly Delegate** - Aug. 2022 - Aug. 2024
@@ -41,16 +45,12 @@ nav_order: 4
 - **Volunteer**, Girl Scouts Engineering Day - May 2023
 
 #### Professional & Campuswide Service
-- **Junior Researcher Engagement Officer**, REproducible Research In Transportation Engineering ([RERITE](https://www.rerite.org/)) - July 2025 - Present 
-- **Student Lead Coordinator**, BAIR-NCKU Summer AI Workshop - July 2025
-- **Initiator**, IEEE Technical Committee: [Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/) - Mar. 2025 - Present
-- **Student Coordinator**, ITS Berkeley Seminar Series - Sep. 2024 - May 2025
-- **Organizer**, ITSC 2024 Workshop "Automated Mobility in Emerging Mixed Traffic", IEEE ITSS - 2024
+- **PhD Coordinator**, ITS Berkeley Seminar Series - Sep. 2024 - May 2025
+- **Panelist**, International Graduate Student Instructor (GSI) conference, UC Berkeley - Aug. 2023 & 2024 & 2025
 - **Core member**, CEE Faculty Search Student Committee - 2023
 - **Member**, EE Faculty Search Student Committee - 2023
 - **Member**, CS Faculty Search Student Committee - 2023
-- **Panelist**, International Graduate Student Instructor (GSI) conference, UC Berkeley - Aug. 2023 & 2024 & 2025
-- **Panelist**, pedagogy class for new GSIs in CEE (CE375) - April 2022
 - **Volunteer**, admitted students visit days in EECS and CEE - 2020 - Present
 - **Volunteer**, TU Delft Department of Transport and Planning Visit - April 2023
+- **Panelist**, pedagogy class for new GSIs in CEE (CE375) - April 2022
 
