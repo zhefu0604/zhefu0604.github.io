@@ -18,15 +18,15 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
   - Students' degree programs include <span style="color: #007bff;">Undergraduate, MEng, MS, MBA and PhD</span>
   - Students' departments include [CEE](https://ce.berkeley.edu/), [CED](https://ced.berkeley.edu/) and [Haas School of Business](https://haas.berkeley.edu/)
 
-- **Student Ratings:** 4.67/5.00 (dept. avg: 4.41, response rate: 77%)
-  - Helpfulness: 4.84/5.00
-  - Communication: 4.77/5.00
-  - Inclusive Environment: 4.79/5.00
-  - Accessibility: 4.86/5.00
+- **Student Ratings:** 4.67/5.00 (dept. avg: 4.41, response rate: 77.19%)
+  - Helpfulness: 4.84/5.00 (avg: 4.57)
+  - Communication: 4.77/5.00 (avg: 4.48)
+  - Inclusive Environment: 4.79/5.00 (avg: 4.49)
+  - Accessibility: 4.86/5.00 (avg: 4.67)
 
 - **Recognition:**
   - Awarded [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695) (Top 10%)
-  - Invited <span style="color: #007bff;">3 times</span> to serve as one of three panelists at International GSI conference held for around <span style="color: #007bff;">800 first-time GSIs</span> at UC Berkeley
+  - Invited <span style="color: #007bff;">3 times (2023/2024/2025)</span> to serve as one of three panelists at International GSI conference held for around <span style="color: #007bff;">800 first-time GSIs</span> at UC Berkeley
   - Invited to serve as the panelist for the pedagogy class for new GSIs (CE375)
 
 #### Lecturer, UC Berkeley
@@ -57,7 +57,7 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 
 
 ### **Mentoring**
-Honored with the <span style="color:rgb(128, 32, 99);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 16 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
+Honored with the <span style="color:rgb(128, 32, 117);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 16 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
 
 ##### Undergraduate Students
 
