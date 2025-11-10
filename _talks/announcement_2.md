@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-01
+date: 2025-12-02
 inline: true
 related_posts: false
 ---
 
- Autonomy and Artificial Intelligence (AAI) seminar at USC
+ I will attend [NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/calendar) at San Diego from 12/2 - 12/6. Happy to chat if you are also around!
