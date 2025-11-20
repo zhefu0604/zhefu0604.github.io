@@ -261,7 +261,7 @@ exclude:
   - package.json
   - package-lock.json
   # - _pages/about_einstein.md
-  - _posts/2023-07-12-post-bibliography.md
+  # - _posts/2023-07-12-post-bibliography.md
   - purgecss.config.js
   - README.md
   - readme_preview/
