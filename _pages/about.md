@@ -33,9 +33,13 @@ I am on the 2025-2026 job market!
 ---
 
 #### Research Interests
-I develop **model-informed learning and control** algorithms, along with modeling tools for **distributed parameter systems**, with a focus on **mixed autonomy**, where automated and human agents co-exist and interact in the system.
+I develop <span style="color:#003262; font-weight:bold;">model-informed, human-centered learning and control</span> methods for complex cyber–physical systems, with a focus on
+<span style="color:#3B7EA1; font-weight:bold;">mixed autonomy</span>, where automated and human agents co-exist and interact dynamically.
 
-The techniques I develop combine **physics-informed neural modeling of hyperbolic PDEs**, model-based and data-driven control algorithm design, and field validation and deployment. I embed domain knowledge and structure to guide learning, rather than relying on pure black-box approaches. I apply these methods to autonomy systems, such as automated vehicles, drone fleets, and urban air mobility.
+My research integrates **physics-informed neural modeling** of distributed parameter systems (e.g., hyperbolic PDEs), <span style="color:#003262; font-weight:bold;">model-guided and data-driven control design</span>, and <span style="color:#3B7EA1; font-weight:bold;">field-validated deployment</span> on real hardware platforms.
+
+Across automated vehicles, drone fleets, and emerging urban air mobility, I aim to develop autonomy that is
+<span style="color:#003262; font-weight:bold;">interpretable, efficient, and aligned with human behavior</span>, enabling system-level improvements in safety, sustainability, and societal well-being.
 
 I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/). I also shared this work with a broader audience in the **UC Grad Slam**, where graduate students present their research in just 3 minutes.  
 My talk on how a few smart cars can smooth stop-and-go traffic waves earned me the **Runner-up award at UC Berkeley**.  ▶️ [Watch the talk here](https://www.youtube.com/watch?v=JJdPY_pF130)  
