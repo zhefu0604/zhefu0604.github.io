@@ -12,21 +12,31 @@ module ExternalPosts
     def generate(site)
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
-          puts "Fetching external posts from #{src['name']}:"
-          if src['rss_url']
-            fetch_from_rss(site, src)
-          elsif src['posts']
-            fetch_from_urls(site, src)
+          begin
+            puts "Fetching external posts from #{src['name']}:"
+            if src['rss_url']
+              fetch_from_rss(site, src)
+            elsif src['posts']
+              fetch_from_urls(site, src)
+            end
+          rescue => e
+            puts "Warning: Failed to fetch external posts from #{src['name']}: #{e.message}"
+            # Continue with build even if external posts fail
           end
         end
       end
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
-      process_entries(site, src, feed.entries)
+      begin
+        xml = HTTParty.get(src['rss_url']).body
+        return if xml.nil?
+        feed = Feedjira.parse(xml)
+        process_entries(site, src, feed.entries) if feed && feed.entries
+      rescue => e
+        puts "Warning: Failed to parse RSS feed from #{src['rss_url']}: #{e.message}"
+        # Continue with build even if RSS parsing fails
+      end
     end
 
     def process_entries(site, src, entries)
