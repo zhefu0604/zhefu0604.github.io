@@ -4,7 +4,7 @@ permalink: /fun/
 title: Fun
 description: Let's have fun!
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ### 💇 Hair Donations

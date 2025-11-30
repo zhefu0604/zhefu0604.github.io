@@ -55,14 +55,22 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 - Volunteered to teach elementary school students at a religious school located in Lianhua village, a less-developed corner of China's mountainous west
 - Shocked by the poor health resources the left-behind children have, I designed the "Basic Health and Hygiene" course on my own, including creating the syllabus, preparing the materials and delivering 10 one-hour lectures
 
+#### Guest Lecturer
+
+##### UCLA CEE C181/C281 Traffic Engineering Systems: Operations and Control (Undergrad & Graduate Level)
+**Period:** Nov. 2025
+**Institution:** UCLA
+
+- Enrollment: 30 (Undergrads & Graduates)
+- Instructed on the theory and application of modeling and control in mixed-autonomy traffic systems.
 
 ### **Mentoring**
 Honored with the <span style="color:rgb(128, 32, 117);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 16 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
 
 ##### Undergraduate Students
 
-**CEE Scholars research mentorship program** (for undergrads from PREP and T-PREP programs) - March 2024 - Present
-- Sami Seyedjafar Kashi, CEE, 2024 - 2025
+**CEE Scholars research mentorship program** (for undergrads from PREP and T-PREP programs) - Spring 2024
+- Sami Seyedjafar Kashi, CEE, Spring 2024
 
 **BAIR undergraduate mentoring program** - Oct. 2023 - Present
 - Atharva Gupta, EECS, 2023 - 2024
@@ -70,6 +78,9 @@ Honored with the <span style="color:rgb(128, 32, 117);"> Evergreen Award for Und
 
 **Mobile Sensing Lab undergraduate mentoring** - Oct. 2021 - Present
 - Qing Lyu, exchange student from Tongji U, 2025 - present. Currently M.S. student at UC Berkeley CEE
+- Zakaria Baba, research intern from École Polytechnique, 2025. Currently Ph.D. student at Caltech CMS
+- Martin Drieux, research intern from École Polytechnique, 2025. Currently M.S. student at Carnegie Mellon University MSML
+- Alexi Canesse, research intern from École Normale Supérieure de Lyon, 2025. Currently Ph.D. student at École Polytechnique
 - Xiaoyang Cao, exchange student from Tsinghua U, 2024 - present. Currently Master student at MIT TPP
 - Jiaying Yang, exchange student from Tongji U, 2023 - 2024. Currently M.S. student at UC Berkeley CEE
 - Ashwin Dara, EECS, 2023 - 2024. Currently software engineer at Doordash

@@ -14,6 +14,7 @@ nav_order: 4
 - Transportation Research Record
 - Transportation Science
 - Transportation Research Part C: Emerging Technologies
+- Transportation Research Part D: Transport and Environment
 
 #### Conference Paper Reviewer
 - 25th International Symposium on Transportation and Traffic Theory (ISTTT25)
@@ -45,6 +46,8 @@ nav_order: 4
 - **Volunteer**, Girl Scouts Engineering Day - May 2023
 
 #### Professional & Campuswide Service
+- **Paneilst**, ["Agents, Memory, and Simulation"](https://luma.com/2jt99arj?tk=nEV6lG), Google and SESE - Nov. 2025
+- **Panelist**, [Path to the Professoriate](https://grad.berkeley.edu/students/new-students/path-to-professoriate) Program, UC Berkeley - Nov. 2025
 - **PhD Coordinator**, ITS Berkeley Seminar Series - Sep. 2024 - May 2025
 - **Panelist**, International Graduate Student Instructor (GSI) conference, UC Berkeley - Aug. 2023 & 2024 & 2025
 - **Core member**, CEE Faculty Search Student Committee - 2023
