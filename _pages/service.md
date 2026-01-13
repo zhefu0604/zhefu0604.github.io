@@ -11,6 +11,8 @@ nav_order: 4
 - IEEE Open Journal of Intelligent Transportation Systems
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Vehicular Technology
+- Nature Partner Journals (npj) Sustainable Mobility and Transport
+- Scientific Reports
 - Transportation Research Record
 - Transportation Science
 - Transportation Research Part C: Emerging Technologies
