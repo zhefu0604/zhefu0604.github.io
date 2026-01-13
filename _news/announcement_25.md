@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eMERGE Seminar
-date: 2025-12-2
+date: 2026-1-3
 inline: true
 related_posts: false
 ---
