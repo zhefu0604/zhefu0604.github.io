@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-13
+date: 2026-1-11
 inline: true
 related_posts: false
 ---
 
- Guest Lecture & Mobility Lab Seminar at UCLA, 11/13 Thursday 4:50 PM - 5:50 PM.
+ COTA TRB Young Professionals Lightning Talk, 1/11 Sunday 9:00 PM - 10:30 PM.
