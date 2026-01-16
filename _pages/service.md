@@ -23,6 +23,7 @@ nav_order: 4
 - ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
 - IEEE American Control Conference (ACC)
 - IEEE Conference on Decision and Control (CDC)
+- IEEE European Control Conference (ECC)
 - IEEE Intelligent Vehicles Symposium (IV)
 - Transportation Research Board (TRB) Annual Meeting
 - World Transport Convention
