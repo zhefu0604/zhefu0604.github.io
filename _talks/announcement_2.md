@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-1-12
+date: 2026-1-10
 inline: true
 related_posts: false
 ---
 
- Poster presentation with my mentee Qing Lyu at TRB Annual Meeting, 1/12 Monday 10:30 AM - 12:15 PM.
+ The comprehensive version of our paper "Supervised and Unsupervised Neural Network Solver for First Order Hyperbolic Nonlinear PDEs" is now available on [arXiv](https://arxiv.org/abs/2601.06388).

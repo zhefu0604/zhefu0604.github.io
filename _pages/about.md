@@ -47,7 +47,7 @@ My talk on how a few smart cars can smooth stop-and-go traffic waves earned me t
 
 ---
 
-## Upcoming Talks
+## Upcoming Talks & Recent Research Highlights
 
 {% include talks.liquid limit=true %}
 
