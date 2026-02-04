@@ -21,6 +21,7 @@ nav_order: 5
 - [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695), UC Berkeley (Top 10%) - March 2022
 
 #### Scholarships
+- Bridgette Beato Leadership Legacy Graduate Scholarship, WTS International - Feb. 2026
 - [Rodney E. Slater Scholarship](https://enotrans.org/article/eno-concludes-2025-leaders-development-conference/), Eno Center for Transportation - June 2025
 - [Asian American Architects and Engineers Foundation (AAa/e) Graduate Scholarship (First Place)](https://its.berkeley.edu/news/zhe-fu-awarded-aaae-scholarship), AAa/e - Oct. 2024
 - [ITS California and California Transportation Foundation Scholarship](https://its.berkeley.edu/news/fu-earns-ctf-itsca-scholarship-award), ITSCA & CTF - Aug. 2023
@@ -28,6 +29,7 @@ nav_order: 5
 - Chinese National Scholarship (Top 1%), Chinese Ministry of Education - Sept. 2017
 
 #### Research Fundings
+- [Stanford Energy Postdoctoral Fellowship](https://energypostdoc.stanford.edu/) 3 years independent funding with flexible duration, Stanford
 - Berkeley's Artificial Intelligence Research Lab ([BAIR](https://bair.berkeley.edu/)) Graduate Grant ($12k), BAIR - May 2024
 - Hearts to Humanity Eternal ([H2H8](https://h2h8.com/)) Graduate Research Grant ($10k), H2H8 - July 2023
 - Student Research Grant ($15k), CEE Department UC Berkeley - June 2022

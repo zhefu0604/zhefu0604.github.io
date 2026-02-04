@@ -26,7 +26,8 @@ nav_order: 7
 - 🎾 **Tennis** – My go-to sport for both fun and friendly competition.  
 - 🏓 **Table Tennis** – I enjoy quick rallies and friendly matches.  
   *Fun fact:* I have a **full-size table tennis table** at home!  
-- ⛳ **Golf** – Relaxing on the course.  
+- ⛳ **Golf** – Relaxing on the course. 
+- 🤺 **Fencing** – I am learning fencing.  
 
 ---
 
@@ -34,5 +35,6 @@ nav_order: 7
 - 🍵 **Tea Tasting & Brewing** – I love exploring teas, but I am **super sensitive to caffeine**.  
 - 🍳 **Cooking** – The first time I tried cooking was at **6 years old**, when I pan-fried an egg by myself while my parents were at work.  
 - 🇫🇷 **Learning French** – In addition to Mandarin and English, I am currently learning French to expand my language skills.  
+- 🏺 **Ceramics & Pottery** – I am creating ceramic pieces and learning pottery -- it is super relaxing and stress-relieving!
 
 ---

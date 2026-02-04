@@ -77,6 +77,7 @@ Honored with the <span style="color:rgb(128, 32, 117);"> Evergreen Award for Und
 - Nicole Han, EECS, 2023 - present
 
 **Mobile Sensing Lab undergraduate mentoring** - Oct. 2021 - Present
+- Jordan Kam, Aerospace Engineering, 2025 - present.
 - Qing Lyu, exchange student from Tongji U, 2025 - present. Currently M.S. student at UC Berkeley CEE
 - Zakaria Baba, research intern from École Polytechnique, 2025. Currently Ph.D. student at Caltech CMS
 - Martin Drieux, research intern from École Polytechnique, 2025. Currently M.S. student at Carnegie Mellon University MSML
