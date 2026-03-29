@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-1-10
+date: 2026-4-9
 inline: true
 related_posts: false
 ---
 
- The comprehensive version of our paper "Supervised and Unsupervised Neural Network Solver for First Order Hyperbolic Nonlinear PDEs" is now available on [arXiv](https://arxiv.org/abs/2601.06388).
+I will give a seminar talk for TBD (Travel Behavior and Demand) Center Webinar Series, hosted by Arizona State University.

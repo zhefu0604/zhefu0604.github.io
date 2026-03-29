@@ -58,14 +58,14 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 #### Guest Lecturer
 
 ##### UCLA CEE C181/C281 Traffic Engineering Systems: Operations and Control (Undergrad & Graduate Level)
-**Period:** Nov. 2025
+**Period:** Nov. 2025  
 **Institution:** UCLA
 
 - Enrollment: 30 (Undergrads & Graduates)
 - Instructed on the theory and application of modeling and control in mixed-autonomy traffic systems.
 
 ### **Mentoring**
-Honored with the <span style="color:rgb(128, 32, 117);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 16 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
+Honored with the [Outstanding Graduate Student Peer Mentor Award](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/) and <span style="color:rgb(128, 32, 117);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 20 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
 
 ##### Undergraduate Students
 

@@ -24,8 +24,7 @@ nav_order: 7
 ### 🏹 Sports & Activities
 - 🏹 **Archery** – Practicing patience and precision.  
 - 🎾 **Tennis** – My go-to sport for both fun and friendly competition.  
-- 🏓 **Table Tennis** – I enjoy quick rallies and friendly matches.  
-  *Fun fact:* I have a **full-size table tennis table** at home!  
+- 🏓 **Table Tennis** – I enjoy quick rallies and friendly matches.  *Fun fact:* I have a **full-size table tennis table** at home!  
 - ⛳ **Golf** – Relaxing on the course. 
 - 🤺 **Fencing** – I am learning fencing.  
 

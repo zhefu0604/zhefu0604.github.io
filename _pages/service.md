@@ -14,9 +14,9 @@ nav_order: 4
 - Nature Partner Journals (npj) Sustainable Mobility and Transport
 - Scientific Reports
 - Transportation Research Record
-- Transportation Science
 - Transportation Research Part C: Emerging Technologies
 - Transportation Research Part D: Transport and Environment
+- Transportation Science
 
 #### Conference Paper Reviewer
 - 25th International Symposium on Transportation and Traffic Theory (ISTTT25)

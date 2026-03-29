@@ -42,7 +42,7 @@ Across automated vehicles, drone fleets, and emerging urban air mobility, I aim 
 <span style="color:#003262; font-weight:bold;">interpretable, efficient, and aligned with human behavior</span>, enabling system-level improvements in safety, sustainability, and societal well-being.
 
 I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/). I also shared this work with a broader audience in the **UC Grad Slam**, where graduate students present their research in just 3 minutes.  
-My talk on how a few smart cars can smooth stop-and-go traffic waves earned me the **Runner-up award at UC Berkeley**.  ▶️ [Watch the talk here](https://www.youtube.com/watch?v=JJdPY_pF130)  
+My talk on how a few smart cars can smooth stop-and-go traffic waves earned me the **Runner-up award at UC Berkeley**.  ▶️ [Watch the talk here](https://www.youtube.com/watch?v=K78GxKZDb-g)  
 
 
 ---

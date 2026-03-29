@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-🥇 **WTS Scholarship**: Happy to get notified that I am the WTS SF Chapter's winner for the Bridgette Beato Leadership Legacy Graduate Scholarship. 
+🥇 **WTS Scholarship Winner**: Happy to get notified that I am the WTS SF Chapter's winner for the Bridgette Beato Leadership Legacy Graduate Scholarship. 
     
  

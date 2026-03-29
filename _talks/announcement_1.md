@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-1-25
+date: 2026-4-7
 inline: true
 related_posts: false
 ---
 
- Our paper "(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs" has been accepted by ICLR 2026. Looking forward to chatting with you in April at Rio, Brazil!
+ I will give a guest lecture at CMU for the course 12787: Special Topics: Physics-Informed Machine Learning, hosted by Professor Su Jiang.
