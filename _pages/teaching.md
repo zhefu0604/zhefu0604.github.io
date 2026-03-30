@@ -57,6 +57,14 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 
 #### Guest Lecturer
 
+##### CMU CEE 12787 Special Topics: Physics-Informed Machine Learning
+**Period:** April 2026  
+**Institution:** CMU
+
+- Enrollment: 
+- Instructed on physics-informed learning and control for mixed traffic systems.
+
+
 ##### UCLA CEE C181/C281 Traffic Engineering Systems: Operations and Control (Undergrad & Graduate Level)
 **Period:** Nov. 2025  
 **Institution:** UCLA
@@ -74,10 +82,10 @@ Honored with the [Outstanding Graduate Student Peer Mentor Award](https://grad.b
 
 **BAIR undergraduate mentoring program** - Oct. 2023 - Present
 - Atharva Gupta, EECS, 2023 - 2024
-- Nicole Han, EECS, 2023 - present
+- Nicole Han, EECS, 2023 - present. Currently software engineer at X.
 
 **Mobile Sensing Lab undergraduate mentoring** - Oct. 2021 - Present
-- Jordan Kam, Aerospace Engineering, 2025 - present.
+- Jordan Kam, Aerospace Engineering, 2025 - present. Incoming Ph.D. student at Caltech Aerospace
 - Qing Lyu, exchange student from Tongji U, 2025 - present. Currently M.S. student at UC Berkeley CEE
 - Zakaria Baba, research intern from École Polytechnique, 2025. Currently Ph.D. student at Caltech CMS
 - Martin Drieux, research intern from École Polytechnique, 2025. Currently M.S. student at Carnegie Mellon University MSML
@@ -96,7 +104,7 @@ Honored with the [Outstanding Graduate Student Peer Mentor Award](https://grad.b
 - Cathy Wang, EECS, 2023 - 2024. Currently software engineer at AWS
 
 **TRANSOC graduate student mentoring program** - Oct. 2020 - Present
-- Xuanmian He, CEE, 2025 - present. Currently M.S. student at UC Berkeley
-- Zihe Liu, CEE, 2024 - present. Currently Ph.D. student at UC Berkeley
-- Juanwu Lu, CEE, 2021 - 2022. Currently Ph.D. student at Purdue University
+- Xuanmian He, CEE, 2025 - present. Currently M.S. student at UC Berkeley CEE
+- Zihe Liu, CEE, 2024 - present. Currently Ph.D. student at UC Berkeley CEE
+- Juanwu Lu, CEE, 2021 - 2022. Currently Ph.D. student at Purdue University CEE
 - Jianxuan Yin, CEE, 2020 - 2021. Currently construction technology engineer at XL Construction

@@ -30,6 +30,11 @@ nav_order: 6
 
 ### Recognitions in Press
 
+##### 2026
+- **Outstanding Gradaute Student Peer Mentor Award** - [Website Announcement](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/)
+- **CTF Lipman Family Sustainable Transportation Graduate Fellowship** - ITS Berkeley ([3/26](https://its.berkeley.edu/news/fu-yi-ju-receive-ctf-lipman-family-sustainable-transportation-graduate-fellowships))
+- **Stanford Energy Postdoctoral Fellowship** - Stanford Energy ([2/26](https://energy.stanford.edu/news/stanford-energy-postdoctoral-fellowship-welcomes-10-new-fellows))
+
 ##### 2025
 
 - **MIT EECS Rising Star** - [Website Announcement](https://risingstars-eecs.mit.edu/participants/zhe-fu/)

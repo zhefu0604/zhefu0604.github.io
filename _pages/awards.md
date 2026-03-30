@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: Awards
-description: My selected awards, funding, honors, and scholarships received throughout my academic career
+description: My selected awards, honors, and scholarships received throughout my academic career
 nav: true
 nav_order: 5
 ---
@@ -22,7 +22,7 @@ Leadership:
 - [Dean's Award for Inclusive Excellence](https://ce.berkeley.edu/student-update/3005), Oski Student Leadership Award (Campus-wide <span style="color: #007bff;">sole</span> awardee) - April 2024
 
 Teaching & Mentoring:
-- [Outstanding Graduate Student Peer Mentor Award](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/), UC Berkeley (Among 4 awardees campus-wide <span style="color: #007bff;">nationwide</span>) - March 2026
+- [Outstanding Graduate Student Peer Mentor Award](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/), UC Berkeley (Among 4 awardees campus-wide) - March 2026
 - Evergreen Award for Undergraduate Researcher Mentoring, EECS department at UC Berkeley - May 2024
 - [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695), UC Berkeley (Top 10%) - March 2022
 
