@@ -17,18 +17,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://bayen.berkeley.edu/alex-bayen). I also work with Professor [Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/), and visited Autonomous Systems Lab [(ASL)](https://stanfordasl.github.io/) at Stanford led by Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone).
+Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://bayen.berkeley.edu/alex-bayen). 
 
+I will join Stanford as a [Stanford Energy Fellow](https://energypostdoc.stanford.edu/people/zhe-fu), hosted by Professor [Eric Darve](https://icme.stanford.edu/people/eric-darve) and Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone).
 
-I am fortunate to conduct research in Berkeley Artificial Intelligence Research [(BAIR)](https://bair.berkeley.edu/), the Institute of Transportation Studies [(ITS)](https://its.berkeley.edu/), Center for Information Technology and Research in the Interest of Society [(CITRIS)](https://citris-uc.org/), Berkeley Deep Drive [(BDD)](https://deepdrive.berkeley.edu/), and California Partners for Advanced Transportation Technology [(California PATH)](https://path.berkeley.edu/).
+<!-- I also work with Professor [Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/), and visited Autonomous Systems Lab [(ASL)](https://stanfordasl.github.io/) at Stanford led by Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone). -->
+
+During my Ph.D., I have been fortunate to conduct research in Berkeley Artificial Intelligence Research [(BAIR)](https://bair.berkeley.edu/), the Institute of Transportation Studies [(ITS)](https://its.berkeley.edu/), Center for Information Technology and Research in the Interest of Society [(CITRIS)](https://citris-uc.org/), Berkeley Deep Drive [(BDD)](https://deepdrive.berkeley.edu/), and California Partners for Advanced Transportation Technology [(California PATH)](https://path.berkeley.edu/).
 
 I completed an M.S. in Transportation Engineering at UC Berkeley and a B.S. in Transportation Engineering at Tongji University, along with a Law minor at Fudan University, and research internships at [Honda Research Institute](https://usa.honda-ri.com/) and the Tsinghua–Berkeley Shenzhen Institute.
 
 For more information, please refer to my **CV** <a href="../assets/pdf/Zhe_Fu_CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
-<div style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-left: 4px solid #007bff; border-radius: 5px;">
+<!-- <div style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-left: 4px solid #007bff; border-radius: 5px;">
 I am on the 2025-2026 job market!
-</div>
+</div> -->
 
 ---
 

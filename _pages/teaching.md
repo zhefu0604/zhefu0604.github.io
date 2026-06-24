@@ -61,7 +61,7 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 **Period:** April 2026  
 **Institution:** CMU
 
-- Enrollment: 
+- Enrollment: 20 (Graduates)
 - Instructed on physics-informed learning and control for mixed traffic systems.
 
 
@@ -86,7 +86,7 @@ Honored with the [Outstanding Graduate Student Peer Mentor Award](https://grad.b
 
 **Mobile Sensing Lab undergraduate mentoring** - Oct. 2021 - Present
 - Jordan Kam, Aerospace Engineering, 2025 - present. Incoming Ph.D. student at Caltech Aerospace
-- Qing Lyu, exchange student from Tongji U, 2025 - present. Currently M.S. student at UC Berkeley CEE
+- Qing Lyu, exchange student from Tongji U, 2025 - present. Incoming Ph.D. student at UC Berkeley CEE
 - Zakaria Baba, research intern from École Polytechnique, 2025. Currently Ph.D. student at Caltech CMS
 - Martin Drieux, research intern from École Polytechnique, 2025. Currently M.S. student at Carnegie Mellon University MSML
 - Alexi Canesse, research intern from École Normale Supérieure de Lyon, 2025. Currently Ph.D. student at École Polytechnique
