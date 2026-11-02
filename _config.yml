@@ -6,9 +6,9 @@ title: Zhe Fu 傅哲 # the website title (if blank, full name will be used inste
 first_name: Zhe
 middle_name: 
 last_name: Fu
-description:
+description: Zhe Fu is a Stanford Energy Fellow and Berkeley Lab Affiliate developing physics-informed learning, control, optimization, and agentic AI for mixed-autonomy and multi-agent systems.
 footer_text: 
-keywords: Zhe Fu, 傅哲, Berkeley, research, machine learning, AI, academic, fu-zhe.com
+keywords: Zhe Fu, 傅哲, Stanford, Berkeley Lab, physics-informed learning, control, optimization, agentic AI, mixed autonomy, autonomous scientific discovery, robotics, fu-zhe.com
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✅ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -43,13 +43,13 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 1200px
+max_width: 1100px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -58,9 +58,9 @@ max_width: 1200px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://fu-zhe.com/assets/img/headshot.JPG # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -71,10 +71,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 # Email
-email: zhefu@berkeley.edu
+email: zhefu@stanford.edu
 
 # Social Media - Only keeping the ones you want
-linkedin_username: zhe-fu-fuzhe
+linkedin_username: zhe-fu-a3a56b148
 x_username: ZheFu1 # your X/Twitter handle (add your actual handle here)
 orcid_id: 0000-0003-4478-3978 # your actual ORCID ID (add your real ORCID here, format: 0000-0000-0000-0000)
 scholar_userid: Qeq5-TsAAAAJ # your Google Scholar ID (just the ID, not the full URL)
@@ -172,16 +172,8 @@ giscus:
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# External blog sources are intentionally disabled for this research website.
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -208,7 +200,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -221,7 +213,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-talks:
+talks_display:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 talk items
   limit: 5  # leave blank to include all the talks in the `_talks` folder
@@ -258,6 +250,13 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - _posts/
+  - _projects/
+  - _pages/blog.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/repositories.md
   - package.json
   - package-lock.json
   # - _pages/about_einstein.md

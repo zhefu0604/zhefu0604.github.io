@@ -31,7 +31,10 @@ nav_order: 6
 ### Recognitions in Press
 
 ##### 2026
-- **Outstanding Gradaute Student Peer Mentor Award** - [Website Announcement](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/)
+- **1st Place, H2H8 Research Presentation Competition** - [ITS Berkeley](https://its.berkeley.edu/news/fu-wins-first-place-h2h8-research-presentation-competition) ([8/26](https://its.berkeley.edu/news/fu-wins-first-place-h2h8-research-presentation-competition))
+- **Bridgette Beato Leadership Legacy Graduate Scholarship** - [ITS Berkeley](https://its.berkeley.edu/news/fu-receives-2026-bridgette-beato-leadership-legacy-graduate-scholarship) ([8/26](https://its.berkeley.edu/news/fu-receives-2026-bridgette-beato-leadership-legacy-graduate-scholarship))
+- **Outstanding PhD Student of the Year** - [ITS Berkeley](https://its.berkeley.edu/news/its-names-tran-fu-montilla-outstanding-students-year) ([5/26](https://its.berkeley.edu/news/its-names-tran-fu-montilla-outstanding-students-year))
+- **Outstanding Graduate Student Peer Mentor Award** - [Website Announcement](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/)
 - **CTF Lipman Family Sustainable Transportation Graduate Fellowship** - ITS Berkeley ([3/26](https://its.berkeley.edu/news/fu-yi-ju-receive-ctf-lipman-family-sustainable-transportation-graduate-fellowships))
 - **Stanford Energy Postdoctoral Fellowship** - Stanford Energy ([2/26](https://energy.stanford.edu/news/stanford-energy-postdoctoral-fellowship-welcomes-10-new-fellows))
 

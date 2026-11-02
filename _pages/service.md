@@ -7,12 +7,20 @@ nav: true
 nav_order: 4
 ---
 
+#### Editorial Board
+- Transportation Engineering
+
 #### Journal Article Reviewer
+- ACM Transactions on Knowledge Discovery from Data
 - IEEE Open Journal of Intelligent Transportation Systems
+- IEEE Transactions on Automatic Control
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Vehicular Technology
+- IEEE Intelligent Transportation Systems Magazine
+- Nature Partner Journals (npj) Discover Artificial Intelligence
 - Nature Partner Journals (npj) Sustainable Mobility and Transport
 - Scientific Reports
+- Springer Nature Discover Vehicles
 - Transportation Research Record
 - Transportation Research Part C: Emerging Technologies
 - Transportation Research Part D: Transport and Environment
@@ -24,6 +32,7 @@ nav_order: 4
 - IEEE American Control Conference (ACC)
 - IEEE Conference on Decision and Control (CDC)
 - IEEE European Control Conference (ECC)
+- IEEE International Conference on Intelligent Transportation Systems (ITSC)
 - IEEE Intelligent Vehicles Symposium (IV)
 - Transportation Research Board (TRB) Annual Meeting
 - World Transport Convention
@@ -36,7 +45,7 @@ nav_order: 4
 - **Junior Researcher Engagement Officer**, REproducible Research In Transportation Engineering ([RERITE](https://www.rerite.org/)) - July 2025 - Present 
 - **Student Lead Coordinator**, BAIR-NCKU Summer AI Workshop - July 2025
 - **Initiator**, IEEE Technical Committee: [Automated Mobility in Mixed Traffic](https://www.mixedtraffic.org/) - Mar. 2025 - Present
-- **Organizer**, ITSC 2024 Workshop "Automated Mobility in Emerging Mixed Traffic", IEEE ITSS - 2024
+- **Organizer**, ITSC Workshop "Automated Mobility in Emerging Mixed Traffic" Series, IEEE ITSS - 2024, 2025 & 2026
 - **Sole Graduate Representative**, CEE DEIB Committee - Aug. 2023 - July 2024
 - **Founder and President**, Representation of Asian and Pacific Islander in the Department of Civil and Environmental Engineering ([RAPID-CEE](https://sites.google.com/berkeley.edu/rapid-cee/home)) - May 2023 - Aug. 2024
 - **Graduate Assembly Delegate** - Aug. 2022 - Aug. 2024
@@ -49,9 +58,9 @@ nav_order: 4
 - **Volunteer**, Girl Scouts Engineering Day - May 2023
 
 #### Professional & Campuswide Service
-- **Paneilst**, ["Agents, Memory, and Simulation"](https://luma.com/2jt99arj?tk=nEV6lG), Google and SESE - Nov. 2025
+- **Panelist**, ["Agents, Memory, and Simulation"](https://luma.com/2jt99arj?tk=nEV6lG), Google and SESE - Nov. 2025
 - **Panelist**, [Path to the Professoriate](https://grad.berkeley.edu/students/new-students/path-to-professoriate) Program, UC Berkeley - Nov. 2025
-- **PhD Coordinator**, ITS Berkeley Seminar Series - Sep. 2024 - May 2025
+- **Ph.D. Coordinator**, ITS Berkeley Seminar Series - Sep. 2024 - May 2025
 - **Panelist**, International Graduate Student Instructor (GSI) conference, UC Berkeley - Aug. 2023 & 2024 & 2025
 - **Core member**, CEE Faculty Search Student Committee - 2023
 - **Member**, EE Faculty Search Student Committee - 2023

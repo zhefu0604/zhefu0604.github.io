@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-4-7
+date: 2026-11-03
 inline: true
 related_posts: false
 ---
 
- I will give a guest lecture at CMU for the course 12787: Special Topics: Physics-Informed Machine Learning, hosted by Professor Su Jiang.
+I will give an invited session talk at the INFORMS Annual Meeting 2026 in San Francisco.

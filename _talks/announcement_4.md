@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-4-24
+date: 2026-11-09
+date_end: 2026-11-10
 inline: true
 related_posts: false
 ---
 
- I will present our paper on "(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs" at ICLR 2026. Look forward to chatting with you at Rio, Brazil!
+I will attend the Data Science Rising Stars Workshop at the University of Chicago.

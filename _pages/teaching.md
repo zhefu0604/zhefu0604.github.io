@@ -32,9 +32,9 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 #### Lecturer, UC Berkeley
 
 ##### BAIR-NCKU Summer AI Workshop (Graduate Level)
-**Period:** July 2025
+**Period:** July 2025 & Aug. 2026
 
-- Enrollment: 6 (Masters Students from NCKU)
+- Enrollment: 6 students in 2025 and 7 students in 2026 (master's students from NCKU)
 - Served as the main student coordinator for the week-long module on "AI & Transportation"
 - Instructed the cohort on "Learning and controls in Mixed Autonomy Traffic Systems" and "Neural Finite Volume Methods"
 
@@ -53,7 +53,7 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 
 - Enrollment: 15 (Elementary School Students in "Hui" minority)
 - Volunteered to teach elementary school students at a religious school located in Lianhua village, a less-developed corner of China's mountainous west
-- Shocked by the poor health resources the left-behind children have, I designed the "Basic Health and Hygiene" course on my own, including creating the syllabus, preparing the materials and delivering 10 one-hour lectures
+- In response to limited local health resources, I designed the "Basic Health and Hygiene" course, including the syllabus and teaching materials, and delivered ten one-hour lectures
 
 #### Guest Lecturer
 
@@ -73,38 +73,41 @@ Recognized with [UC Berkeley's Outstanding Graduate Student Instructor Award](ht
 - Instructed on the theory and application of modeling and control in mixed-autonomy traffic systems.
 
 ### **Mentoring**
-Honored with the [Outstanding Graduate Student Peer Mentor Award](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/) and <span style="color:rgb(128, 32, 117);"> Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">a diverse group of 20 students</span>: from undergraduates, exchange students, Master of Engineering students, Master of Science students, and Ph.D. students, across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/) departments.
+Honored with the [Outstanding Graduate Student Peer Mentor Award](https://grad.berkeley.edu/news/celebrate-mentorship-at-cal-for-2026/) and <span style="color:rgb(128, 32, 117);">Evergreen Award for Undergraduate Researcher Mentoring</span>, I have closely mentored <span style="color: #007bff;">23 students (14 undergraduate and 9 graduate students)</span> across [CEE](https://ce.berkeley.edu/) and [EECS](http://eecs.berkeley.edu/), including exchange, M.Eng., M.S., and Ph.D. students.
 
-##### Undergraduate Students
+##### Undergraduate Students (14 total; → indicates first placement after mentorship)
 
 **CEE Scholars research mentorship program** (for undergrads from PREP and T-PREP programs) - Spring 2024
 - Sami Seyedjafar Kashi, CEE, Spring 2024
 
 **BAIR undergraduate mentoring program** - Oct. 2023 - Present
 - Atharva Gupta, EECS, 2023 - 2024
-- Nicole Han, EECS, 2023 - present. Currently software engineer at X.
+- Nicole Han, EECS & DS, 2023 - present → Software Engineer, X
 
 **Mobile Sensing Lab undergraduate mentoring** - Oct. 2021 - Present
-- Jordan Kam, Aerospace Engineering, 2025 - present. Incoming Ph.D. student at Caltech Aerospace
-- Qing Lyu, exchange student from Tongji U, 2025 - present. Incoming Ph.D. student at UC Berkeley CEE
-- Zakaria Baba, research intern from École Polytechnique, 2025. Currently Ph.D. student at Caltech CMS
-- Martin Drieux, research intern from École Polytechnique, 2025. Currently M.S. student at Carnegie Mellon University MSML
-- Alexi Canesse, research intern from École Normale Supérieure de Lyon, 2025. Currently Ph.D. student at École Polytechnique
-- Xiaoyang Cao, exchange student from Tsinghua U, 2024 - present. Currently Master student at MIT TPP
-- Jiaying Yang, exchange student from Tongji U, 2023 - 2024. Currently M.S. student at UC Berkeley CEE
-- Ashwin Dara, EECS, 2023 - 2024. Currently software engineer at Doordash
-- Eric Cheng, EECS, 2021 - 2022. Currently software engineer at Unity
+- William Tao, EECS, 2026 - present
+- Bhavya Mamnani, Mechanical Engineering, 2026 - present
+- Jordan Kam, Aerospace Engineering, 2025 - present → Ph.D. Student, Caltech Aerospace
+- Qing Lyu, exchange student from Tongji U, 2025 - present → Ph.D. Student, UC Berkeley CEE
+- Zakaria Baba, research intern from École Polytechnique, 2025 → Ph.D. Student, Caltech CMS
+- Martin Drieux, research intern from École Polytechnique, 2025 → M.S. Student, Carnegie Mellon University MSML
+- Alexi Canesse, research intern from École Normale Supérieure de Lyon, 2025 → Ph.D. Student, École Polytechnique
+- Xiaoyang Cao, exchange student from Tsinghua U, 2024 - present → Master's Student, MIT TPP
+- Jiaying Yang, exchange student from Tongji U, 2023 - 2024 → M.S. Student, UC Berkeley CEE
+- Ashwin Dara, EECS, 2023 - 2024 → Software Engineer, DoorDash
+- Eric Cheng, EECS, 2021 - 2022 → Software Engineer, Unity
 
-##### Graduate Students
+##### Graduate Students (9 total; → indicates first placement after mentorship)
 
 **EECS MEng capstone project mentor** - Sep. 2023 - May 2024
-- Alvin Bao, EECS, 2023 - 2024. Currently software engineer at Netflix
-- Tony Luo, EECS, 2023 - 2024. Currently software engineer at Doordash
-- Abirami Sabbani, EECS, 2023 - 2024. Currently software engineer at Walmart Global Tech
-- Cathy Wang, EECS, 2023 - 2024. Currently software engineer at AWS
+- Alvin Bao, EECS, 2023 - 2024 → Software Engineer, Netflix
+- Tony Luo, EECS, 2023 - 2024 → Software Engineer, DoorDash
+- Abirami Sabbani, EECS, 2023 - 2024 → Software Engineer, Walmart Global Tech
+- Cathy Wang, EECS, 2023 - 2024 → Software Engineer, AWS
 
-**TRANSOC graduate student mentoring program** - Oct. 2020 - Present
-- Xuanmian He, CEE, 2025 - present. Currently M.S. student at UC Berkeley CEE
-- Zihe Liu, CEE, 2024 - present. Currently Ph.D. student at UC Berkeley CEE
-- Juanwu Lu, CEE, 2021 - 2022. Currently Ph.D. student at Purdue University CEE
-- Jianxuan Yin, CEE, 2020 - 2021. Currently construction technology engineer at XL Construction
+**CEE M.S. student mentoring** - Oct. 2020 - Present
+- Yichi Zhang, CEE, 2026 - present
+- Xuanmian He, CEE, 2025 - present
+- Zihe Liu, CEE, 2024 - present → Ph.D. Student, UC Berkeley
+- Juanwu Lu, CEE, 2021 - 2022 → Ph.D. Student, Purdue University
+- Jianxuan Yin, CEE, 2020 - 2021 → Construction Technology Engineer, XL Construction

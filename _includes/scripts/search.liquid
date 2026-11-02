@@ -72,6 +72,7 @@
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
+      {%- if site.latest_posts.enabled -%}
       {%- for post in site.posts -%}
         {
           {%- assign title = post.title | escape | strip -%}
@@ -96,8 +97,9 @@
           },
         },
       {%- endfor -%}
+      {%- endif -%}
       {%- for collection in site.collections -%}
-        {%- if collection.label != 'posts' -%}
+        {%- if collection.label == 'news' or collection.label == 'talks' -%}
           {%- for item in collection.docs -%}
             {
               {%- if item.inline -%}

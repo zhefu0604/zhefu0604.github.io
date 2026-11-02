@@ -1,10 +1,10 @@
 ---
 layout: post
-title: eMERGE Seminar
+title: Stanford Energy Postdoctoral Fellowship
 date: 2026-1-3
 inline: true
 related_posts: false
 ---
 
-🎉 **Stanford Energy Fellow**: I was selected as one of 10 scholars worldwide from different fields for the [Stanford Energy Postdoctoral Fellowship](https://energypostdoc.stanford.edu/). The fellowship can grant for three years independent research funding with flexible duration.
+🎉 **Stanford Energy Fellow**: I was selected as one of ten scholars across disciplines for the [Stanford Energy Postdoctoral Fellowship](https://energypostdoc.stanford.edu/), which provides three years of independent research funding.
  

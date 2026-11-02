@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-4-9
+date: 2026-10-02
 inline: true
 related_posts: false
 ---
 
-I will give a seminar talk for TBD (Travel Behavior and Demand) Center Webinar Series, hosted by Arizona State University.
+I will give a [research seminar at CE-CERT, UC Riverside](https://www.cert.ucr.edu/event-list/2026/10/02/research-seminar-dr-zhe-fu).

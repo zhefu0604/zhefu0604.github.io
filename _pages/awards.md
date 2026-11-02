@@ -6,11 +6,15 @@ description: My selected awards, honors, and scholarships received throughout my
 nav: true
 nav_order: 5
 ---
-### Selected Awards & Fundings & Honors
+### Selected Awards, Honors & Funding
 #### Awards
 Research:
+- Rising Star in Data Science, University of Chicago - Nov. 2026
+- Finalist, IEEE ITSC YP & WIE 3-Minute Thesis Competition - Sept. 2026
+- [First-place Winner](https://its.berkeley.edu/news/fu-wins-first-place-h2h8-research-presentation-competition), H2H8 Research Presentation Competition (sole winner) - May 2026
+- [Outstanding PhD Student of the Year](https://its.berkeley.edu/news/its-names-tran-fu-montilla-outstanding-students-year), ITS Berkeley - May 2026
 - [Rising Star in EECS](https://risingstars-eecs.mit.edu/), EECS department at MIT (70 out of 327, Top 21%) - Oct. 2025
-- [Runner-up Winner](https://ce.berkeley.edu/student-update/3179), 2025 Berkeley Grad Slam (<span style="color: #007bff;">Campus-wide sole winner</span>) - April 2025
+- [Second-place Winner](https://grad.berkeley.edu/news/announcements/meet-our-grad-slam-2025-campus-winners/), 2025 Berkeley Grad Slam (campus-wide competition) - April 2025
 - [NSF CPS Rising Star](https://cps-vo.org/group/CPSRisingStarsWorkshop25), 2025 CPS Rising Stars Workshop (30 out of 174, Top 17%) - Mar. 2025
 - [Rising Star in Mechanical Engineering](https://its.berkeley.edu/news/cmu-selects-zhe-fu-2024-rising-star-mechanical-engineering), ME department at CMU (Among 30 selected attendees nationwide) - Oct. 2024
 - [IEEE ITSC 2024 Institutional Lead Award](https://its.berkeley.edu/news/bayen-receives-ieee-awards) - CIRCLES Consortium - Sept. 2024
@@ -27,15 +31,15 @@ Teaching & Mentoring:
 - [Outstanding Graduate Student Instructor](https://ce.berkeley.edu/news/2695), UC Berkeley (Top 10%) - March 2022
 
 #### Scholarships
-- CTF Lipman Family Sustainable Transportation Gradaute Fellowship, CTF - Feb. 2026
-- Bridgette Beato Leadership Legacy Graduate Scholarship, WTS International - Feb. 2026
+- CTF Lipman Family Sustainable Transportation Graduate Fellowship, CTF (among four awardees nationwide) - Feb. 2026
+- [Bridgette Beato Leadership Legacy Graduate Scholarship](https://its.berkeley.edu/news/fu-receives-2026-bridgette-beato-leadership-legacy-graduate-scholarship), WTS International, San Francisco Chapter (sole awardee) - Feb. 2026
 - [Rodney E. Slater Scholarship](https://enotrans.org/article/eno-concludes-2025-leaders-development-conference/), Eno Center for Transportation - June 2025
 - [Asian American Architects and Engineers Foundation (AAa/e) Graduate Scholarship (First Place)](https://its.berkeley.edu/news/zhe-fu-awarded-aaae-scholarship), AAa/e - Oct. 2024
 - [ITS California and California Transportation Foundation Scholarship](https://its.berkeley.edu/news/fu-earns-ctf-itsca-scholarship-award), ITSCA & CTF - Aug. 2023
 - Chinese National Scholarship (Top 1%), Chinese Ministry of Education - Sept. 2017
 
 #### Grants
-- [Stanford Energy Postdoctoral Fellowship](https://energypostdoc.stanford.edu/) 3 years independent funding with flexible duration, Stanford
+- [Stanford Energy Postdoctoral Fellowship](https://energypostdoc.stanford.edu/), three years of independent funding, Stanford - Jan. 2026
 - Berkeley's Artificial Intelligence Research Lab ([BAIR](https://bair.berkeley.edu/)) Graduate Grant ($12k), BAIR - May 2024
 - Hearts to Humanity Eternal ([H2H8](https://h2h8.com/)) Graduate Research Grant ($10k), H2H8 - July 2023
 - NSF Student Travel Grant, CPS-IoT Week U.S. NSF - March 2023
@@ -49,9 +53,6 @@ Teaching & Mentoring:
 - Second Prize, 12th National Transportation Technology Competition (Team Leader, Rank: 9/302) - May 2017
 - First Prize, Transportation Technology Competition at Tongji University (Team Leader, Rank: 2/59) - April 2017
 - Meritorious Winner, US Mathematical Contest in Modeling (Team Leader, Top 7%) - April 2017
-- Second Prize, National English Competition for College Students - May 2017
-- Second Prize, China Mathematical Olympiad (Provincial Level) - Oct. 2013
-- Second Prize, China Physics Olympiad (Provincial Level) - Oct. 2013
 
 #### Other Scholarships
 - Professional Development Award, UC Berkeley - Aug. 2024 & Sep. 2025

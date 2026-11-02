@@ -2,14 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate at UC Berkeley
+subtitle: Stanford Energy Fellow | Berkeley Lab Affiliate
 
 profile:
   align: right
   image: headshot.JPG
+  image_alt: Portrait of Zhe Fu
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>zhefu[at]berkeley[dot]edu</p>
+    <p>zhefu[at]stanford[dot]edu</p>
 
 news: false # we'll manually place the news section above the map
 latest_posts: false
@@ -17,15 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! 你好！I'm Zhe, a final-year Ph.D. Candidate in [Transportation Engineering](https://ce.berkeley.edu/programs/trans), and M.S. Candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by Professor [Alexandre Bayen](https://bayen.berkeley.edu/alex-bayen). 
+Hello, 你好！I'm Zhe, a [Stanford Energy Fellow](https://energypostdoc.stanford.edu/), co-hosted by Professor [Eric Darve](https://profiles.stanford.edu/eric-darve) at [Darve Lab](https://ericdarve.github.io/dash_lab_website/#top) and Professor [Marco Pavone](https://web.stanford.edu/~pavone/) at [ASL](https://stanfordasl.github.io/). I am also a Berkeley Lab Affiliate in the Energy Analysis Division at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
 
-I will join Stanford as a [Stanford Energy Fellow](https://energypostdoc.stanford.edu/people/zhe-fu), hosted by Professor [Eric Darve](https://icme.stanford.edu/people/eric-darve) and Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone).
+I completed my PhD in Transportation Engineering and MS in Electrical Engineering and Computer Sciences at UC Berkeley in 2026, advised by Professor [Alexandre Bayen](https://bayen.berkeley.edu/alex-bayen). I was also fortunate to work with Professor [Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/). Additionally, I previously earned an MS in Transportation Engineering at UC Berkeley, a BS in Transportation Engineering at Tongji University, and a minor in Law at Fudan University.
 
-<!-- I also work with Professor [Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/), and visited Autonomous Systems Lab [(ASL)](https://stanfordasl.github.io/) at Stanford led by Professor [Marco Pavone](https://profiles.stanford.edu/marco-pavone). -->
-
-During my Ph.D., I have been fortunate to conduct research in Berkeley Artificial Intelligence Research [(BAIR)](https://bair.berkeley.edu/), the Institute of Transportation Studies [(ITS)](https://its.berkeley.edu/), Center for Information Technology and Research in the Interest of Society [(CITRIS)](https://citris-uc.org/), Berkeley Deep Drive [(BDD)](https://deepdrive.berkeley.edu/), and California Partners for Advanced Transportation Technology [(California PATH)](https://path.berkeley.edu/).
-
-I completed an M.S. in Transportation Engineering at UC Berkeley and a B.S. in Transportation Engineering at Tongji University, along with a Law minor at Fudan University, and research internships at [Honda Research Institute](https://usa.honda-ri.com/) and the Tsinghua–Berkeley Shenzhen Institute.
+During my time at Berkeley, I conducted research with [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/), the [Institute of Transportation Studies (ITS)](https://its.berkeley.edu/), [CITRIS and the Banatao Institute](https://citris-uc.org/), [Berkeley DeepDrive](https://deepdrive.berkeley.edu/), and [California PATH](https://path.berkeley.edu/). I also completed research internships at [Honda Research Institute](https://usa.honda-ri.com/) and the [Tsinghua–Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/main.psp).
 
 For more information, please refer to my **CV** <a href="../assets/pdf/Zhe_Fu_CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
@@ -36,21 +33,16 @@ I am on the 2025-2026 job market!
 ---
 
 #### Research Interests
-I develop <span style="color:#003262; font-weight:bold;">model-informed, human-centered learning and control</span> methods for complex cyber–physical systems, with a focus on
-<span style="color:#3B7EA1; font-weight:bold;">mixed autonomy</span>, where automated and human agents co-exist and interact dynamically.
+I develop **physics-informed learning, control, and optimization** methods for complex dynamical systems. My current research also explores **agentic AI, LLM interpretability, and autonomous scientific discovery**, with applications to mixed-autonomy, robotic, and multi-agent systems.
 
-My research integrates **physics-informed neural modeling** of distributed parameter systems (e.g., hyperbolic PDEs), <span style="color:#003262; font-weight:bold;">model-guided and data-driven control design</span>, and <span style="color:#3B7EA1; font-weight:bold;">field-validated deployment</span> on real hardware platforms.
+My work connects mathematical and physical structure with data-driven models to build autonomy that is interpretable, efficient, and reliable. It spans neural modeling of distributed-parameter systems, model-guided control and optimization, evidence-grounded explanation, and validation on real-world platforms.
 
-Across automated vehicles, drone fleets, and emerging urban air mobility, I aim to develop autonomy that is
-<span style="color:#003262; font-weight:bold;">interpretable, efficient, and aligned with human behavior</span>, enabling system-level improvements in safety, sustainability, and societal well-being.
-
-I was one of the main student contributors for a 100-AVs field operational test on the I-24 highway in Nashville TN. More information about this large-scale field experiment can be found [here](https://circles-consortium.github.io/). I also shared this work with a broader audience in the **UC Grad Slam**, where graduate students present their research in just 3 minutes.  
-My talk on how a few smart cars can smooth stop-and-go traffic waves earned me the **Runner-up award at UC Berkeley**.  ▶️ [Watch the talk here](https://www.youtube.com/watch?v=K78GxKZDb-g)  
+I was a core student contributor to a 100-vehicle field operational test on I-24 in Nashville, TN, studying how a small number of automated vehicles can smooth traffic waves. Learn more about the [CIRCLES field experiment](https://circles-consortium.github.io/), watch my three-minute [UC Berkeley Grad Slam talk](https://www.youtube.com/watch?v=K78GxKZDb-g), which earned **second place university-wide across all academic disciplines** in the 2025 competition, or watch the [longer version of my research talk](https://www.youtube.com/watch?v=rqfpQlT2r-c), which won first prize in the H2H8 Research Presentation Competition.
 
 
 ---
 
-## Upcoming Talks & Recent Research Highlights
+## Where to Find Me
 
 {% include talks.liquid limit=true %}
 
@@ -59,7 +51,7 @@ My talk on how a few smart cars can smooth stop-and-go traffic waves earned me t
 
 ## Recent News
 
-{% include news.liquid limit=true %}
+{% include news.liquid %}
 
 ---
 
